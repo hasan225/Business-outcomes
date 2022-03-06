@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+    font-weight: 500;
+}
+
+.containers{
+    background: url(img/a0bc0fe5-programs2-1_100000000000000000001o.jpg) no-repeat center center /cover;
+}
+.form-textarea{
+    border-radius:22px !important;
+}
+.SContentMain img{
+    border-radius: 50%;
+}
+.SContentMain div p {
+    font-size: 12px;
+    line-height: 22px;
+}
+img.storyContentSecondImg {
+    margin-right: -90px
+}
+img.storyContentFirstImg {
+     margin-left: -90px;
+}
+.FwcLeft div, .CICLeft div{
+    font-size: .9rem;
+}
+.singlePackage h6 {
+    font-size: 16px !important;
+    line-height: 22px;
+}
+.SPFirstText{
+    line-height: 26px !important;
+}
+.SPSecondText {
+    line-height: 23px !important;
+}
+
+.footer{
+     background: url(img/3e952964-allher-reinforcement-background_100000000000000000001o.jpg) no-repeat center center /cover;
+    height: 260px;
+    background-attachment: fixed;
+    }
+
+   .foter-logo {
+    display: flex;
+    margin: auto;
+    width: 200px;
+}
